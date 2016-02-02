@@ -23,6 +23,7 @@ For the front end:
 
 For the back end:
 
+0. To make sure the submodules have been cloned as well, run ``git submodule update --init --recursive``.
 1. Install virtualenv (you don't have to, but that's what we'll use in these instructions)
 2. Create and activate a virtualenv (see [these instructions](https://virtualenv.readthedocs.org/en/latest/userguide.html) for details)
 3. Inside the virtualenv, `pip install ./external/kacpaw`.  
